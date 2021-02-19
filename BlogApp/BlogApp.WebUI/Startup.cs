@@ -45,7 +45,7 @@ namespace BlogApp.WebUI
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
 
-            SeedData.Seed(app);
+            //SeedData.Seed(app);
         }
     }
 }

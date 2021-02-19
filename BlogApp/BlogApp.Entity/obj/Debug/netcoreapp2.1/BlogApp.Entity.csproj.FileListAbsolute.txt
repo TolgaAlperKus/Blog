@@ -16,3 +16,12 @@ C:\Users\Tolga\Desktop\BlogProje2\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netco
 C:\Users\Tolga\Desktop\BlogProje2\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.AssemblyInfo.cs
 C:\Users\Tolga\Desktop\BlogProje2\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.dll
 C:\Users\Tolga\Desktop\BlogProje2\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.pdb
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.1\BlogApp.Entity.deps.json
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.1\BlogApp.Entity.dll
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.1\BlogApp.Entity.pdb
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.csprojAssemblyReference.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.dll
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.pdb

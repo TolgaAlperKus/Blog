@@ -5338,24 +5338,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tolga\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\tolga\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tolga\\Desktop\\BlogProje2\\BlogApp\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj",
+      "projectUniqueName": "C:\\Users\\tolga\\OneDrive\\Belgeler\\Visual Studio 2019\\Blog\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj",
       "projectName": "BlogApp.Data",
-      "projectPath": "C:\\Users\\Tolga\\Desktop\\BlogProje2\\BlogApp\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj",
-      "packagesPath": "C:\\Users\\Tolga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tolga\\Desktop\\BlogProje2\\BlogApp\\BlogApp\\BlogApp.Data\\obj\\",
+      "projectPath": "C:\\Users\\tolga\\OneDrive\\Belgeler\\Visual Studio 2019\\Blog\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj",
+      "packagesPath": "C:\\Users\\tolga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tolga\\OneDrive\\Belgeler\\Visual Studio 2019\\Blog\\BlogApp\\BlogApp.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tolga\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\tolga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -5366,9 +5367,10 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\Tolga\\Desktop\\BlogProje2\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {
-              "projectPath": "C:\\Users\\Tolga\\Desktop\\BlogProje2\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj"
+            "C:\\Users\\tolga\\OneDrive\\Belgeler\\Visual Studio 2019\\Blog\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {
+              "projectPath": "C:\\Users\\tolga\\OneDrive\\Belgeler\\Visual Studio 2019\\Blog\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj"
             }
           }
         }
@@ -5381,6 +5383,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": {
             "target": "Package",
@@ -5398,10 +5401,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

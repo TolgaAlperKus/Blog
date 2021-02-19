@@ -62,3 +62,38 @@ C:\Users\Tolga\Desktop\BlogProje2\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcor
 C:\Users\Tolga\Desktop\BlogProje2\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.csproj.CopyComplete
 C:\Users\Tolga\Desktop\BlogProje2\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.dll
 C:\Users\Tolga\Desktop\BlogProje2\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.pdb
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\bower.json
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.WebUI.deps.json
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.WebUI.runtimeconfig.json
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.WebUI.runtimeconfig.dev.json
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.WebUI.dll
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.WebUI.pdb
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.WebUI.Views.dll
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.WebUI.Views.pdb
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.Data.dll
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.Entity.dll
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.Data.pdb
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.1\BlogApp.Entity.pdb
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.csprojAssemblyReference.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.AssemblyInfo.cs
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.TagHelpers.input.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.TagHelpers.output.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.RazorCoreGenerate.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.Views.pdb
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.csproj.CopyComplete
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.dll
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.pdb
+C:\Users\tolga\OneDrive\Belgeler\Visual Studio 2019\Blog\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.1\BlogApp.WebUI.genruntimeconfig.cache
